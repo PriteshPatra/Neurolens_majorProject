@@ -1,0 +1,12 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+ultralytics>=8.2.0
+opencv-python-headless>=4.9.0
+numpy>=1.26.0
+Pillow>=10.3.0
+python-multipart>=0.0.9
+pydantic>=2.7.0
+
+plyer==2.1.0
+wmi==1.5.1; sys_platform == 'win32'
+screen-brightness-control==0.24.0
